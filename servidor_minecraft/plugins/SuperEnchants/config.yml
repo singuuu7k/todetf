@@ -1,0 +1,16 @@
+lightning-cooldown: 5 # In Seconds
+teleport-cooldown: 5 # In Seconds
+shockwave-cooldown: 5 # In Seconds
+
+blindness-duration: 100 # In ticks
+bleed-amount: 5 # Amount of times to deduct health
+bleed-interval: 20 # Amount of ticks in between each bleed
+bleed-health: 1 # Amount of health points to deduct, this would deduct 0.5 hearts
+freeze-duration: 100 # In Ticks
+confusion-duration: 120 # In Ticks
+fire-ticks: 100 # In Ticks
+healthsteal-amount: 0.2 # Set this to a decimal value, example 0.35 would give 35% of the targets health to the attacker
+dash-amount: 1.5 # Amount to multiply the players velocity by
+shockwave-range: 7 # In Blocks
+
+display-welcome-message: true
